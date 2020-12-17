@@ -1,0 +1,4 @@
+OBJECT_BASE 660547.btg
+OBJECT NTMU.btg
+OBJECT_SHARED Models/Airport/windsock.xml -139.550699 -8.937031 38.8 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -139.557190 -8.935467 45.6 0.00
